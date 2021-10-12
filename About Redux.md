@@ -33,7 +33,10 @@
 # Redux-Import
 리덕스 관련 import code
 
-
 yarn add redux react-redux redux-thunk redux-logger history@4.10.1 connected-react-router@6.8.0
+
+yarn add immer redux-actions
+
+
 
 
