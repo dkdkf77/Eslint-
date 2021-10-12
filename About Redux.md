@@ -30,5 +30,10 @@
 2. 컴포넌트에서 state 수정요청 하려면?
  - dispatch
 
+# Redux-Import
+리덕스 관련 import code
+
+
+yarn add redux react-redux redux-thunk redux-logger history@4.10.1 connected-react-router@6.8.0
 
 
